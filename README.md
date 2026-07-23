@@ -1,5 +1,12 @@
-# Cuoc-thi-WRO-B6-2026
+# Xe tự hành-bảng B6-WRO 2026
 Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**, bộ công cụ **MATRIX WRO Future Innovators Set V2**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bằng cảm biến khoảng cách, cảm biến màu và camera AI.
+# Giới thiệu
+-Tên nhóm CCVA-HSLR-B6-03
+-Nhóm gồm 3 thành viên
+    Trần Gia Hoàng Nam-Nhóm trưởng
+    Nguyễn Trọng Minh
+    Ngô Đức An
+- Đơn vị đại diện: Hung Steam Robotics Lab-THPT Chu Văn An
 
 # Cài đặt môi trường phát triển
 
