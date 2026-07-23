@@ -183,7 +183,7 @@ CCVA-HSRL-B6-03
 
 ### Mô tả các thư mục
 
-#### `Adurino libaries/`
+#### `Adurino libraries/`
 
 Chứa các thư viện cần thiết để biên dịch và chạy chương trình trên **Arduino IDE**. Người dùng nên cài đặt các thư viện này trước khi nạp chương trình cho robot.
 
