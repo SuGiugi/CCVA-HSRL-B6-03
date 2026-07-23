@@ -44,7 +44,7 @@ Hướng dẫn cài đặt:
 
 Để MATRIX Mini R4 có thể giao tiếp với camera OpenMV, tải tệp sau:
 
-> https://github.com/minhkt1/Cu-c-thi-wro-B6-2026/blob/main/MiniR4SmartCamReader.h
+> https://github.com/SuGiugi/CCVA-HSRL-B6-03/tree/main/Adurino%20libraries
 
 Sau khi tải về, sao chép tệp **MiniR4SmartCamReader.h** vào thư mục:
 
