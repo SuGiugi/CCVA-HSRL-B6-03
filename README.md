@@ -4,7 +4,7 @@ Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**,
 Tên nhóm CCVA-HSLR-B6-03
 
 Nhóm gồm 3 thành viên:
-- Trần Gia Hoàng Nam-Nhóm trưởng
+- Trần Gia Hoàng Nam - nhóm trưởng
 - Nguyễn Trọng Minh
 - Ngô Đức An
 - Đơn vị đại diện: Hung Steam Robotics Lab-THPT Chu Văn An
