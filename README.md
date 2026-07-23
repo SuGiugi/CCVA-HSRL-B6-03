@@ -1,5 +1,5 @@
 # Xe tự hành-bảng B6-WRO 2026
-Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**, bộ công cụ **MATRIX WRO Future Innovators Set V2**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bảng B6-WRO2026 với 2 vòng thi đấu open challange, Obstacle Challenge bằng cảm biến khoảng cách, cảm biến màu và camera AI.
+Chương trình điều khiển robot tự hành sử dụng **Matrix Mini R4**, bộ công cụ **MATRIX WRO Future Innovators Set V2**. Robot thực hiện nhiệm vụ di chuyển theo luật thi đấu bảng B6-WRO2026 với 2 vòng thi đấu Open Challange, Obstacle Challenge bằng cảm biến khoảng cách, cảm biến màu và camera AI.
 # Giới thiệu
 -Tên nhóm CCVA-HSLR-B6-03
 -Nhóm gồm 3 thành viên
